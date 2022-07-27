@@ -17,7 +17,7 @@
 
 ## Video demo of the application's behavior:
 
-[Video of the application's behavior](https://drive.google.com/file/d/1fXUr_Mn87VX-hLX3kBHB31iOHtGmdP3f/view)
+[Video of the application's behavior](https://user-images.githubusercontent.com/85747017/181257430-546e4fdd-e28c-4d5e-9f99-b8a11d3b10ba.mp4)
 
 ## License
 
